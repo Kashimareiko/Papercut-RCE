@@ -1,6 +1,0 @@
-import argparse
-import requests
-
-
-def get_session_id(base_url):
-    s = requests.Session()
